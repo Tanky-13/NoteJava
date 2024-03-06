@@ -11,7 +11,6 @@ public class Notebook {
     private String name;
     private String content;
 
-    // Getters and Setters
     public Long getId() {
         return id;
     }
